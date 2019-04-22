@@ -4,8 +4,6 @@ Questions?
 Spencer N. Axani 
 saxani@mit.edu
 
-test
-
 
 Requirements: Sketch->Include->Manage Libraries:
   1. Adafruit SSD1306     -- by Adafruit Version 1.0.1
